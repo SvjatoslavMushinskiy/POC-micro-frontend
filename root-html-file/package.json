@@ -1,6 +1,6 @@
 {
   "name": "root-html-file",
-  "description": "The single-spa root config for coexisting-angular-microfrontends",
+  "description": "The single-spa root config for POC-microfrontends",
   "main": "index.js",
   "scripts": {
     "start": "serve -s -l 4200"
@@ -9,6 +9,5 @@
   "license": "MIT",
   "devDependencies": {
     "serve": "^11.1.0"
-  },
-  "dependencies": {}
+  }
 }
